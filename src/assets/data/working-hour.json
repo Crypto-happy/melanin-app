@@ -1,0 +1,32 @@
+[
+  {
+    "dayOfWeek": "Mon",
+    "opening": "9:00am",
+    "closing": "10:00pm"
+  },
+  {
+    "dayOfWeek": "Tue",
+    "opening": "9:00am",
+    "closing": "10:00pm"
+  },
+  {
+    "dayOfWeek": "Wed",
+    "opening": "9:00am",
+    "closing": "10:00pm"
+  },
+  {
+    "dayOfWeek": "Thu",
+    "opening": "9:00am",
+    "closing": "10:00pm"
+  },
+  {
+    "dayOfWeek": "Fri",
+    "opening": "9:00am",
+    "closing": "10:00pm"
+  },
+  {
+    "dayOfWeek": "Sat",
+    "opening": "9:00am",
+    "closing": "10:00pm"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "371459569023",
+    "firebase_url": "https://melaninpeople-app.firebaseio.com",
+    "project_id": "melaninpeople-app",
+    "storage_bucket": "melaninpeople-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371459569023:android:85a20f1b12f19bd9ffd64a",
+        "android_client_info": {
+          "package_name": "com.melaninpeople.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371459569023-khuu81vol8u9bbis0hkammh2raps12ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melaninpeople.mobile",
+            "certificate_hash": "db513b2e6199266e4c2e7db4fbaad52527eb117c"
+          }
+        },
+        {
+          "client_id": "371459569023-tdl067q0cjsf5nakff4dt31vkvitdj2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melaninpeople.mobile",
+            "certificate_hash": "71351dd13ce6a9f1b5686237881ab492892ac016"
+          }
+        },
+        {
+          "client_id": "371459569023-1oi4bfts3vgketjdt9ulm02cmf83vcqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Yrg1kWuDUuHKOnCVMM67RLrDAj58p4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371459569023-1oi4bfts3vgketjdt9ulm02cmf83vcqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "371459569023-l1nk0j1n8uek8ioq95jpv9uknl9k5l8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.melaninpeople.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,297 @@
+[
+  {
+    "_id": "Alabama",
+    "name": "Alabama",
+    "abbreviation": "AL"
+  },
+  {
+    "_id": "Alaska",
+    "name": "Alaska",
+    "abbreviation": "AK"
+  },
+  {
+    "_id": "American Samoa",
+    "name": "American Samoa",
+    "abbreviation": "AS"
+  },
+  {
+    "_id": "Arizona",
+    "name": "Arizona",
+    "abbreviation": "AZ"
+  },
+  {
+    "_id": "Arkansas",
+    "name": "Arkansas",
+    "abbreviation": "AR"
+  },
+  {
+    "_id": "California",
+    "name": "California",
+    "abbreviation": "CA"
+  },
+  {
+    "_id": "Colorado",
+    "name": "Colorado",
+    "abbreviation": "CO"
+  },
+  {
+    "_id": "Connecticut",
+    "name": "Connecticut",
+    "abbreviation": "CT"
+  },
+  {
+    "_id": "Delaware",
+    "name": "Delaware",
+    "abbreviation": "DE"
+  },
+  {
+    "_id": "District Of Columbia",
+    "name": "District Of Columbia",
+    "abbreviation": "DC"
+  },
+  {
+    "_id": "Federated States Of Micronesia",
+    "name": "Federated States Of Micronesia",
+    "abbreviation": "FM"
+  },
+  {
+    "_id": "Florida",
+    "name": "Florida",
+    "abbreviation": "FL"
+  },
+  {
+    "_id": "Georgia",
+    "name": "Georgia",
+    "abbreviation": "GA"
+  },
+  {
+    "_id": "Guam",
+    "name": "Guam",
+    "abbreviation": "GU"
+  },
+  {
+    "_id": "Hawaii",
+    "name": "Hawaii",
+    "abbreviation": "HI"
+  },
+  {
+    "_id": "Idaho",
+    "name": "Idaho",
+    "abbreviation": "ID"
+  },
+  {
+    "_id": "Illinois",
+    "name": "Illinois",
+    "abbreviation": "IL"
+  },
+  {
+    "_id": "Indiana",
+    "name": "Indiana",
+    "abbreviation": "IN"
+  },
+  {
+    "_id": "Iowa",
+    "name": "Iowa",
+    "abbreviation": "IA"
+  },
+  {
+    "_id": "Kansas",
+    "name": "Kansas",
+    "abbreviation": "KS"
+  },
+  {
+    "_id": "Kentucky",
+    "name": "Kentucky",
+    "abbreviation": "KY"
+  },
+  {
+    "_id": "Louisiana",
+    "name": "Louisiana",
+    "abbreviation": "LA"
+  },
+  {
+    "_id": "Maine",
+    "name": "Maine",
+    "abbreviation": "ME"
+  },
+  {
+    "_id": "Marshall Islands",
+    "name": "Marshall Islands",
+    "abbreviation": "MH"
+  },
+  {
+    "_id": "Maryland",
+    "name": "Maryland",
+    "abbreviation": "MD"
+  },
+  {
+    "_id": "Massachusetts",
+    "name": "Massachusetts",
+    "abbreviation": "MA"
+  },
+  {
+    "_id": "Michigan",
+    "name": "Michigan",
+    "abbreviation": "MI"
+  },
+  {
+    "_id": "Minnesota",
+    "name": "Minnesota",
+    "abbreviation": "MN"
+  },
+  {
+    "_id": "Mississippi",
+    "name": "Mississippi",
+    "abbreviation": "MS"
+  },
+  {
+    "_id": "Missouri",
+    "name": "Missouri",
+    "abbreviation": "MO"
+  },
+  {
+    "_id": "Montana",
+    "name": "Montana",
+    "abbreviation": "MT"
+  },
+  {
+    "_id": "Nebraska",
+    "name": "Nebraska",
+    "abbreviation": "NE"
+  },
+  {
+    "_id": "Nevada",
+    "name": "Nevada",
+    "abbreviation": "NV"
+  },
+  {
+    "_id": "New Hampshire",
+    "name": "New Hampshire",
+    "abbreviation": "NH"
+  },
+  {
+    "_id": "New Jersey",
+    "name": "New Jersey",
+    "abbreviation": "NJ"
+  },
+  {
+    "_id": "New Mexico",
+    "name": "New Mexico",
+    "abbreviation": "NM"
+  },
+  {
+    "_id": "New York",
+    "name": "New York",
+    "abbreviation": "NY"
+  },
+  {
+    "_id": "North Carolina",
+    "name": "North Carolina",
+    "abbreviation": "NC"
+  },
+  {
+    "_id": "North Dakota",
+    "name": "North Dakota",
+    "abbreviation": "ND"
+  },
+  {
+    "_id": "Northern Mariana Islands",
+    "name": "Northern Mariana Islands",
+    "abbreviation": "MP"
+  },
+  {
+    "_id": "Ohio",
+    "name": "Ohio",
+    "abbreviation": "OH"
+  },
+  {
+    "_id": "Oklahoma",
+    "name": "Oklahoma",
+    "abbreviation": "OK"
+  },
+  {
+    "_id": "Oregon",
+    "name": "Oregon",
+    "abbreviation": "OR"
+  },
+  {
+    "_id": "Palau",
+    "name": "Palau",
+    "abbreviation": "PW"
+  },
+  {
+    "_id": "Pennsylvania",
+    "name": "Pennsylvania",
+    "abbreviation": "PA"
+  },
+  {
+    "_id": "Puerto Rico",
+    "name": "Puerto Rico",
+    "abbreviation": "PR"
+  },
+  {
+    "_id": "Rhode Island",
+    "name": "Rhode Island",
+    "abbreviation": "RI"
+  },
+  {
+    "_id": "South Carolina",
+    "name": "South Carolina",
+    "abbreviation": "SC"
+  },
+  {
+    "_id": "South Dakota",
+    "name": "South Dakota",
+    "abbreviation": "SD"
+  },
+  {
+    "_id": "Tennessee",
+    "name": "Tennessee",
+    "abbreviation": "TN"
+  },
+  {
+    "_id": "Texas",
+    "name": "Texas",
+    "abbreviation": "TX"
+  },
+  {
+    "_id": "Utah",
+    "name": "Utah",
+    "abbreviation": "UT"
+  },
+  {
+    "_id": "Vermont",
+    "name": "Vermont",
+    "abbreviation": "VT"
+  },
+  {
+    "_id": "Virgin Islands",
+    "name": "Virgin Islands",
+    "abbreviation": "VI"
+  },
+  {
+    "_id": "Virginia",
+    "name": "Virginia",
+    "abbreviation": "VA"
+  },
+  {
+    "_id": "Washington",
+    "name": "Washington",
+    "abbreviation": "WA"
+  },
+  {
+    "_id": "West Virginia",
+    "name": "West Virginia",
+    "abbreviation": "WV"
+  },
+  {
+    "_id": "Wisconsin",
+    "name": "Wisconsin",
+    "abbreviation": "WI"
+  },
+  {
+    "_id": "Wyoming",
+    "name": "Wyoming",
+    "abbreviation": "WY"
+  }
+]

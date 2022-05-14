@@ -1,0 +1,9 @@
+export const RECOMMENDED_PROFILES_TOP_RANKED_BUSINESSES_OR_PERSONAL =
+  'recommended_profiles_top_ranked_businesses_or_personal'
+export const RECOMMENDED_PROFILES_TOP_RANKED_BUSINESSES_OR_PERSONAL_SUCCESS =
+  'recommended_profiles_top_ranked_businesses_or_personal_success'
+export const RECOMMENDED_PROFILES_TOP_RANKED_BUSINESSES_OR_PERSONAL_FAILURE =
+  'recommended_profiles_top_ranked_businesses_or_personal_failure'
+
+export const RESET_TOP_PROFILE_RECOMMENDED_LIST =
+  'reset_top_profile_recommended_list'

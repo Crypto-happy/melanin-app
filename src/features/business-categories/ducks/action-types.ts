@@ -1,0 +1,3 @@
+export const GET_BUSINESS_CATEGORIES_REQUEST = 'get_business_categories_request'
+export const GET_BUSINESS_CATEGORIES_SUCCESS = 'get_business_categories_success'
+export const GET_BUSINESS_CATEGORIES_FAILURE = 'get_business_categories_failure'

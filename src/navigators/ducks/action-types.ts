@@ -1,0 +1,1 @@
+export const SET_DYNAMIC_LINK = 'SET_DYNAMIC_LINK'
